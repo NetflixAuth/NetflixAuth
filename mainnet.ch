@@ -32,6 +32,7 @@ Exchange
 Transfer
 Twitter- @CryptoAppPro
 [~~currency~till~~]{(@aud$61,753.11)}
-#KH/s~7537.147
-#GH/s~7537.147
-[Version beta.3v5.9]
+KH/s-753.147
+GH/s-753.147
+Version
+beta.3v5.9
